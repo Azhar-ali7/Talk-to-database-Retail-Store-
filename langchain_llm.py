@@ -17,7 +17,7 @@ load_dotenv()  # take environment variables from .env (especially api key)
 
 def get_db_chain():
     db_user = 'root'
-    db_password = '919927242524Azzu'
+    db_password = 'Azzu'
     db_host = 'localhost'
     db_name = 'atliq_tshirts'
 
